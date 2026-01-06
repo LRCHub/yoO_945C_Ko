@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ONE LOVE feat．清水翔太<’08 ver．>",
+  "base_artist": "Dohzi-T",
+  "createdAt": "2026-01-06T15:51:58.281395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ONE LOVE feat．清水翔太<’08 ver．>",
+      "artist": "Dohzi-T",
+      "has_synced": false,
+      "path": "select/01_ONE_LOVE_feat.清水翔太_’08_ver._Dohzi-T.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE LOVE feat.清水翔太<'08ver.>",
+      "artist": "童子-T",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_LOVE_feat.清水翔太_'08ver._童子-T.txt"
+    }
+  ]
+}
